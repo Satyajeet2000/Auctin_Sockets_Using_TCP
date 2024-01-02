@@ -25,6 +25,9 @@ Processes all bids at the end of the auction, finds the highest bid, and notifie
 
 ---
 
+![Manner of Communication](tcp_udp.png))
+
+
 ## Part 2
 ### Sealed-Bid Auction Simulation with UDP-Based File Transfer
 
